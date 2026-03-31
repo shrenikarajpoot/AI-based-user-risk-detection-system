@@ -17,11 +17,9 @@ Objective
 
 The main objective of this project is to build a system that can:
 
-1.Analyze user activity data
-
-2.Learn patterns from existing examples
-
-3.Predict whether a user is safe or risky
+1. Analyze user activity data
+2. Learn patterns from existing examples
+3. Predict whether a user is safe or risky
 
 ---
 
@@ -63,10 +61,8 @@ Output
 
 The system provides:
 
-1.Model accuracy
-
-2.Confusion matrix (to evaluate performance)
-
-3.Prediction for a new user (Safe / Risky)
+1. Model accuracy
+2. Confusion matrix (to evaluate performance)
+3. Prediction for a new user (Safe / Risky)
 
 ---
