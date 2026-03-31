@@ -210,4 +210,40 @@ user_id,password_strength,clicks_unknown_links,time_on_social_media,failed_login
 
 ---
 
+Applications
+
+This project can be extended or used in:
+
+1. Cybersecurity systems
+2. Fraud detection platforms
+3. User behavior monitoring tools
+4. Awareness tools for safe internet usage
+
+---
+
+Limitations
+
+1. The dataset is small and simplified
+2. Only basic features are considered
+3. Real-world systems would require more complex data
+
+---
+
+Learning Outcome
+
+Working on this project helped in understanding how machine learning actually works beyond theory. Concepts like training a model, testing accuracy, and making predictions became much clearer after implementing them practically.
+
+It also showed that even a simple model can be useful when applied to the right problem.
+
+---
+
+Conclusion
+
+This project demonstrates how machine learning can be used to identify risky user behavior in a simple and understandable way. It connects theoretical concepts with practical implementation and highlights the importance of safe digital practices.
+
+---
+
+Final Note
+
+This project is a small step towards understanding how data and machine learning can contribute to solving real-world problems. The focus was kept on clarity, simplicity, and practical application rather than complexity.
 
