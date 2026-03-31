@@ -35,3 +35,34 @@ The system follows a clear step-by-step process:
 6. Finally, the system can take a new user’s data and predict their risk level
 
 ---
+Machine Learning Approach
+
+This project uses supervised learning, where the model learns from already labeled data.
+
+The algorithm used is Logistic Regression, which is suitable for classification problems. It works by estimating the probability of a user being in a particular class (safe or risky) based on input features.
+
+---
+
+Features Used
+
+The prediction is based on the following user attributes:
+
+1. Password strength
+2. Number of unknown links clicked
+3. Failed login attempts
+4. Use of public WiFi
+5. Downloading unknown files
+
+These features were selected because they directly relate to common unsafe digital practices.
+
+---
+
+Output
+
+The system provides:
+
+1.Model accuracy
+2.Confusion matrix (to evaluate performance)
+3.Prediction for a new user (Safe / Risky)
+
+---
